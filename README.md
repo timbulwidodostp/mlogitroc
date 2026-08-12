@@ -1,0 +1,2 @@
+# mlogitroc
+Multiclass Receiver Operating Characteristic (ROC) Curves and Area Under the Curve (AUC) from Multinomial Logistic Regression Analysis Use mlogitroc With STATA 19
